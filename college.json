@@ -1,0 +1,10 @@
+{
+  "name": "Lamar Community College",
+  "slug": "lamarcc",
+  "domain": "lamarcc.edu",
+  "baseUrl": "https://lamarcc.edu",
+  "toolingRepo": "audit-lamarcc.edu",
+  "resultsRepo": "lcc-audit",
+  "siteName": "Lamar Community College",
+  "canonicalSiteUrl": "https://thirstyhead.com/lcc-audit/"
+}
